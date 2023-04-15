@@ -1,6 +1,6 @@
  <div class="app-header header-shadow">
             <div class="app-header__logo">
-                <div><img src="{{ asset('assets/images/logo.svg') }}"></div>
+                <div><h5><b>ADMIN</b></h5></div>
                 <div class="header__pane ml-auto">
                     <div>
                         <button type="button" class="hamburger close-sidebar-btn hamburger--elastic" data-class="closed-sidebar">

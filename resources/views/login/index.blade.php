@@ -9,7 +9,7 @@
 <body>
 <section class='login' id='login' style="width: 250px;">
        <div class='head'>
-       <img src="{{ asset('assets/images/logo.svg') }}">
+       <img src="{{ asset('assets/images/logo.png') }}">
        </div>
        <p class='msg'><b>Welcome Back</b></p>
        @if ($errors->has('email'))
